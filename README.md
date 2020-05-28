@@ -1,2 +1,2 @@
 # Proyecto Junio ofimatica
- Esta es u prueba de mi pagina web en github
+ Esta es una prueba de mi pagina web en github
